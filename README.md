@@ -8,19 +8,4 @@ Usage:
 2. do the command Make, this will create a fillit executable
 3. then do .fillit <file_with_tetris_pieces>
 
-Example of a valid file with tetris pieces:
-...#
-...#
-...#
-...#
-
-....
-....
-....
-####
-
-.###
-...#
-....
-....
-
+there is a one test file with tetris pieces in the repository. You can use that to test.
